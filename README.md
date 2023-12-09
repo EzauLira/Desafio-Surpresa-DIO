@@ -10,7 +10,7 @@ Projeto simples, porem muito importante para minha formação! 📖
 
 Orbrigado DIO e Equipe por essa experiência 🤝🫡
 
-##Tecnologias Usadas:
+## Tecnologias Usadas:
 
 JavaScript
 
