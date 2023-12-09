@@ -12,6 +12,6 @@ Orbrigado DIO e Equipe por essa experiência 🤝🫡
 
 ## Tecnologias Usadas:
 
-JavaScript
-
-VS Code
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          
