@@ -2,4 +2,5 @@
 ## Projeto simples, porem muito importante para minha formação! 📖
 ## Orbrigado DIO e Equipe por essa experiência 🤝🫡
 
-JavaScript
+#Tecnologia Usada:
+   JavaScript
